@@ -1,0 +1,23 @@
+/* Menu.css */
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .menu-item {
+    color: white;
+    cursor: pointer;
+  }
+  
+  .search-bar {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    width: 200px;
+  }
+  
